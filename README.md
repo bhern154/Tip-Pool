@@ -1,1 +1,1 @@
-# Tip-Pool
+# Calculator & Tip-Pool (Loan Calculators)
